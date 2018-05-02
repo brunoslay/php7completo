@@ -38,4 +38,8 @@ comandos:
 		master são "ramos ou brands", basicamente outras pastas do repositório
 		origin deve ser a pasta de origem do comando
 
+	git pull origin master = baixa os arquivos do repositorio do github
+
+teste de alteração
+
 
