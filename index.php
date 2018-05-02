@@ -28,16 +28,22 @@ comandos:
 		obs: sem o --global vai aplicar somente para pasta/repositório atual
 
 
-	git add nome_arquivo = adiciona o arquivo para o "stage area", é como se fosse uma sala de espera
+	comandos obrigatorios para enviar arquivos
+	
+		git add nome_arquivo = adiciona o arquivo para o "stage area", é como se fosse uma sala de espera
 
-	git add --all = adiciona todos os arquivos daquela pasta  para a "stage area"
+		git add --all = adiciona todos os arquivos daquela pasta  para a "stage area"
 
-	git commit -m "comentário" = comentário objetivo do porquê daquela alteração, como log de eventos
+		git commit -m "comentário" = comentário objetivo do porquê daquela alteração, como log de eventos
 
 	git push origin master 
 		master são "ramos ou brands", basicamente outras pastas do repositório
 		origin deve ser a pasta de origem do comando
 
-	
+
+	git pull origin master = baixa os arquivos do repositorio do github
+
+
+
 
 
