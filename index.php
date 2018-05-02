@@ -27,9 +27,15 @@ comandos:
 		--global para aplicar em todas seus repositorios
 		obs: sem o --global vai aplicar somente para pasta/repositório atual
 
+	git remote add origin https://github.com/brunoslay/php7completo.git
+		adiciona o repositorio da conta do servidor de origem
+
+
+	/////////////////////
+	////////////////////
 
 	comandos obrigatorios para enviar arquivos
-	
+
 		git add nome_arquivo = adiciona o arquivo para o "stage area", é como se fosse uma sala de espera
 
 		git add --all = adiciona todos os arquivos daquela pasta  para a "stage area"
