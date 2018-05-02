@@ -1,6 +1,4 @@
-<?php 
-
-	
-	echo 'ola karaio';
+<?php 	
+	echo 'ola mundão';
 
 ?>
